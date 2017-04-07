@@ -18,8 +18,9 @@ Cette formation de web developpeur couvre tant le l'interface visible par l'util
 
 #### Leitmotive et Valeurs
 1. Creativité
-  1.
+  - 1.
 2. Détermination
+    2 
 3. Auto-discipline
 4. Objectif
 pour ne citez que ceux là, il règne une positive attitude….
@@ -38,7 +39,7 @@ project soutenu par bruxelles formation(lien),les sponsors(liens)[Link](http://a
 infos utile (dernière title) + liens
 
 * Site web: [becode](http://register.becode.org)
- * subdomaine
+  * subdomaine
 * Facebook: [becode](http://register.becode.org)
 * date: du 06/04/ au 26/11/2017  
 * programme:
