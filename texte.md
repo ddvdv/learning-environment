@@ -13,12 +13,13 @@ L'étroite la collaboration entre des startup belge et [be/code](http://register
 A l heure où la silicone valley reste l'incontournable de l'IT, la Belgique rattrape son retard.
 
 <<<<<<< HEAD
-*Front-end
+
+* Front-end
  1. HTML
  2. CSS
  3. JavaScript
 
-*Back-end
+* Back-end
  1. PHP
  2. MYSQL
  3. C
