@@ -18,6 +18,7 @@ Cette formation de web developpeur couvre tant le l'interface visible par l'util
 
 #### Leitmotive et Valeurs
 1. Creativité
+  1.
 2. Détermination
 3. Auto-discipline
 4. Objectif
@@ -37,10 +38,11 @@ project soutenu par bruxelles formation(lien),les sponsors(liens)[Link](http://a
 infos utile (dernière title) + liens
 
 * Site web: [becode](http://register.becode.org)
+ * subdomaine
 * Facebook: [becode](http://register.becode.org)
 * date: du 06/04/ au 26/11/2017  
 * programme:
-  partenaire: Telenet(http://www.telenet.be/),Orange(http://www.orange.be/); 4WINGS Foundation(http://www.orange.be/), Degroof Petercam Foundation(http://register.becode.org/),SIMPLON.co(http://simplon.co/), MAKS(http://www.maksvzw.org/)
+  partenaire: Telenet [link](http://www.telenet.be/),Orange [link](http://www.orange.be/); 4WINGS Foundation [link](http://www.orange.be/), Degroof Petercam Foundation [link](http://register.becode.org/),SIMPLON.co ([link](http://simplon.co/), MAKS [link](http://www.maksvzw.org/)
  
 becode. be cool. be hack.
 
