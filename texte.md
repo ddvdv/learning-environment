@@ -12,17 +12,6 @@ si votre relation avec l’informatique se résumait a cela alors l’article qu
 L'étroite la collaboration entre des startup belge et [be/code](http://register.becode.org) forme l'environnement idéal pour révéler des talents. 
 A l heure où la silicone valley reste l'incontournable de l'IT, la Belgique rattrape son retard.
 
-### Code blocks
-
-(function() {
-    console.log('code blocks indent four spaces');
-})()
-
-Voici du `code incorporé.`
-```
-Voici un bloc de code.
-```
-
 Cette formation de web developpeur couvre tant le l'interface visible par l'utilisateur que le traitement effectué par le serveur
 
 ![learning environment](http://i.huffpost.com/gen/2727034/images/o-TECHNOLOGY-COMPUTERS-STUDENTS-facebook.jpg)
@@ -49,9 +38,10 @@ infos utile (dernière title) + liens
 
 * Site web: [becode](http://register.becode.org)
 * Facebook: [becode](http://register.becode.org)
-* date
-* programme
-
+* date: du 06/04/ au 26/11/2017  
+* programme:
+  partenaire: Telenet [link](http://www.telenet.be/),Orange [link](http://www.orange.be/); 4WINGS Foundation [link](http://www.orange.be/), Degroof Petercam Foundation [link](http://register.becode.org/),SIMPLON.co ([link](http://simplon.co/), MAKS [link](http://www.maksvzw.org/)
+ 
 becode. be cool. be hack.
 
 Be cool. Be hack. be</code>. 
