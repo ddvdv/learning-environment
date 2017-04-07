@@ -4,8 +4,7 @@
 ## Qu'est-ce qu'un environnement de travail optimisé?
 
 si votre relation avec l’informatique se résumait a cela alors l’article qui suit pourrait certainement vous intéresser!
-
-[life without becode](http://reactiongifs.me/wp-content/uploads/2014/06/it-crowd-maurice-moss-frustration-fuck-this.gif)
+![life without becode](http://reactiongifs.me/wp-content/uploads/2014/06/it-crowd-maurice-moss-frustration-fuck-this.gif)
 
 
 
