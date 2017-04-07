@@ -36,7 +36,7 @@ project soutenu par bruxelles formation(lien),les sponsors(liens)[Link](http://a
 
 infos utile (dernière title) + liens
 
-* Site: www.becode.org
+* Site web: [becode](http://register.becode.org)
 * Facebook
 * date
 * programme
