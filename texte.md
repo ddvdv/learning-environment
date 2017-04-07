@@ -12,6 +12,16 @@ si votre relation avec l’informatique se résumait a cela alors l’article qu
 L'étroite la collaboration entre des startup belge et [be/code](http://register.becode.org) forme l'environnement idéal pour révéler des talents. 
 A l heure où la silicone valley reste l'incontournable de l'IT, la Belgique rattrape son retard.
 
+*Front-end
+ 1. HTML
+ 2. CSS
+ 3. JavaScript
+
+*Back-end
+ 1. PHP
+ 2. MYSQL
+ 3. C
+
 ### Code blocks
 
 (function() {
