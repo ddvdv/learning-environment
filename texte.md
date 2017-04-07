@@ -18,6 +18,11 @@ A l heure où la silicone valley reste l'incontournable de l'IT, la Belgique rat
     console.log('code blocks indent four spaces');
 })()
 
+Voici du `code incorporé.`
+```
+Voici un bloc de code.
+```
+
 Cette formation de web developpeur couvre tant le l'interface visible par l'utilisateur que le traitement effectué par le serveur
 
 ![learning environment](http://i.huffpost.com/gen/2727034/images/o-TECHNOLOGY-COMPUTERS-STUDENTS-facebook.jpg)
