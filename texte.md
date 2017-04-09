@@ -12,7 +12,7 @@ si votre relation avec l’informatique se résumait a cela alors l’article qu
 L'étroite la collaboration entre des startup belge et [be/code](http://register.becode.org) forme l'environnement idéal pour révéler des talents. 
 A l heure où la silicone valley reste l'incontournable de l'IT, la Belgique rattrape son retard.
 
-<<<<<<< HEAD
+
 
 * Front-end
  1. HTML
@@ -35,8 +35,7 @@ Voici du `code incorporé.`
 Voici un bloc de code.
 ```
 
-=======
->>>>>>> 640d0c62d8448a9b2e2c3c7d80f94a1eebec40f9
+
 Cette formation de web developpeur couvre tant le l'interface visible par l'utilisateur que le traitement effectué par le serveur
 
 ![learning environment](http://i.huffpost.com/gen/2727034/images/o-TECHNOLOGY-COMPUTERS-STUDENTS-facebook.jpg)
