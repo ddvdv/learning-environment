@@ -7,7 +7,7 @@ Si votre relation avec l’informatique se résume à ceci...
 
 ![life without becode](http://reactiongifs.me/wp-content/uploads/2014/06/it-crowd-maurice-moss-frustration-fuck-this.gif)
 
-...alors [be/code](http://register.becode.org) et son environnement de travail optimisé est fait pour vous!
+...alors [Be/Code](http://register.becode.org) et son environnement de travail optimisé est fait pour vous!
 
 
 ### Un environnement de travail optimisé
@@ -31,9 +31,8 @@ pour ne citez que ceux là, il règne une positive attitude…
 
 > "Et le lien que j'ai envoyé, tu l'as regardé ?"
 
-Avant d'aller poser une question, et obtenir un indice, auprès des formateurs, il faut avoir épuisé toutes les sources disponibles au développeur débrouillard. Bref, apprendre à apprendre. BeCode allume la flamme de la curiosité.
+Ne les appelez pas "formateur" mais "déformateur". Avant d'aller poser une question, et obtenir un indice, il faut avoir épuisé toutes les sources disponibles au développeur débrouillard. Bref, apprendre à apprendre. Loin de la rigidité scolaire, [Be/Code](http://register.becode.org) allume la flamme de la curiosité.
 
-Appelez-moi deformateur! C’est ainsi qu’ils aiment se faire appeler, il est vrai qu’au sain de becode(lien)[Link](http://a.com), chemin opposer à la rigueur école pour faire place à la pratique 
 
 une bande de vieux routards de l’informatique autodidacte enthousiaste à l’idee
 de transmettre leurs connaissances sur l’auto-discipline , le self-made et ….
