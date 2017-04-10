@@ -1,13 +1,13 @@
-# Environnement de travail optimisé!
+# BeCode
 
 
-## Qu'est-ce qu'un environnement de travail optimisé?
+## Un environnement de travail optimisé
 
-Si votre relation avec l’informatique se résume à ceci...
+Si actuellement votre relation avec l’informatique se résume à ceci...
 
 ![life without becode](http://reactiongifs.me/wp-content/uploads/2014/06/it-crowd-maurice-moss-frustration-fuck-this.gif)
 
-...alors [BeCode](http://register.becode.org) et son environnement de travail optimisé est fait pour vous!
+...alors [BeCode](http://register.becode.org) est fait pour vous!
 
 
 ### Un environnement de travail optimisé
