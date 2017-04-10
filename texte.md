@@ -40,13 +40,13 @@ Ne les appelez pas "formateur" mais "déformateur". Avant d'aller poser une ques
 
 Cette formation de web developpeur couvre tant le l'interface visible par l'utilisateur que le traitement effectué par le serveur:
 
-* Front-end
+1. Front-end
    1. HTML
    2. CSS
    3. Bootstrap
    4. JavaScript (JQuery, Angular,...)
 
-* Back-end
+2. Back-end
    1. PHP (Symphony, Silex,...)
    2. MYSQL
    3. Introduction algorithmique
@@ -65,11 +65,13 @@ dans six mois, il fera parti de votre jargon quotidien.
 
 
 ### Incubateur de Talent
-L'étroite la collaboration entre des startup belge et [BeCode](http://register.becode.org) forme l'environnement idéal pour révéler des talents.
+Project soutenu par Bruxelles Formation 
+
+L'étroite la collaboration entre des startup belge et [BeCode](http://register.becode.org) participe à un environnement idéal pour révéler des talents.
 A l heure où la silicone valley reste l'incontournable de l'IT, la Belgique rattrape son retard.
 
 
-project soutenu par bruxelles formation(lien),les sponsors(liens)[Link](http://a.com)
+
 
 
 #### infos utiles
@@ -77,7 +79,6 @@ project soutenu par bruxelles formation(lien),les sponsors(liens)[Link](http://a
 * Site web: [BeCode](http://register.becode.org)
 * Facebook: [BeCode](http://facebook.com/becode.org)
 * Première session: du 06/04/2017 au 25/11/2017
-* Partenaire: [Telenet](http://www.telenet.be/), [Orange](http://www.orange.be/), [4WINGS Foundation](http://www.orange.be/), [Degroof Petercam Foundation](http://register.becode.org/), ([SIMPLON.co](http://simplon.co/), [MAKS](http://www.maksvzw.org/)
- 
+* Partenaire: [Telenet](http://www.telenet.be/), [Orange](http://www.orange.be/), [4WINGS Foundation](http://www.orange.be/), [Degroof Petercam Foundation](http://register.becode.org/), ([SIMPLON.co](http://simplon.co/), [MAKS](http://www.maksvzw.org/) 
 
-Be cool. Be hack. BeCode. 
+Be Cool | Be Hack | BeCode
