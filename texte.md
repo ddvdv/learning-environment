@@ -60,14 +60,14 @@ Code blocks
 
 Voici du `code incorporé.`
 
-
+Si aujourd'hui ce bout de code semble être indécriptable,  
 
 ```
 <script type="text/javascript">
     alert("Hello!");
 </script>
 ```
-
+dans six mois il fera parti de votre jargon quotidien.
 
 
 ### Incubateur de Talent
@@ -81,11 +81,9 @@ A l heure où la silicone valley reste l'incontournable de l'IT, la Belgique rat
 
 project soutenu par bruxelles formation(lien),les sponsors(liens)[Link](http://a.com)
 
-
-infos utile (dernière title) + liens
+#### infos utiles
 
 * Site web: [BeCode](http://register.becode.org)
-  * subdomaine
 * Facebook: [BeCode](http://register.becode.org)
 * date: du 06/04/ au 26/11/2017  
 * programme:
