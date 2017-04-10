@@ -76,6 +76,6 @@ A l heure où la silicone valley reste l'incontournable de l'IT, la Belgique rat
 * Site web: [BeCode](http://register.becode.org)
 * Facebook: [BeCode](http://facebook.com/becode.org)
 * Première session: du 06/04/2017 au 25/11/2017
-* Partenaire: [Telenet](http://www.telenet.be/), [Orange](http://www.orange.be/), [4WINGS Foundation](http://www.orange.be/), [Degroof Petercam Foundation](http://register.becode.org/), ([SIMPLON.co](http://simplon.co/), [MAKS](http://www.maksvzw.org/) 
+* Partenaire: [Telenet](http://www.telenet.be/), [Orange](http://www.orange.be/), [4WINGS Foundation](http://www.orange.be/), [Degroof Petercam Foundation](http://register.becode.org/), [SIMPLON.co](http://simplon.co/), [MAKS](http://www.maksvzw.org/) 
 
 Be Cool | Be Hack | BeCode
