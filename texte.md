@@ -5,11 +5,10 @@
 
 Si votre relation avec l’informatique se résume à cela...
 ![life without becode](http://reactiongifs.me/wp-content/uploads/2014/06/it-crowd-maurice-moss-frustration-fuck-this.gif)
-..alors BeCode et son environnement de travail optimisé est fait pour vous!
+...alors BeCode et son environnement de travail optimisé est fait pour vous!
 
 
-
-
+### Au programme:
 * Front-end
  1. HTML
  2. CSS
@@ -19,6 +18,7 @@ Si votre relation avec l’informatique se résume à cela...
  1. PHP
  2. MYSQL
  3. C
+
 
 ### Code blocks
 
