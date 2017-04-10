@@ -52,22 +52,16 @@ Cette formation de web developpeur couvre tant le l'interface visible par l'util
    3. Introduction algorithmique
 
 
-Code blocks
+> Code blocks
 
-(function() {
-    console.log('code blocks indent four spaces');
-})()
-
-Voici du `code incorporé.`
-
-Si aujourd'hui ce bout de code semble être indécriptable,  
+Si aujourd'hui ce bout de code vous semble indécryptable,
 
 ```
 <script type="text/javascript">
     alert("Hello!");
 </script>
 ```
-dans six mois il fera parti de votre jargon quotidien.
+dans six mois, il fera parti de votre jargon quotidien.
 
 
 ### Incubateur de Talent
@@ -75,22 +69,15 @@ L'étroite la collaboration entre des startup belge et [BeCode](http://register.
 A l heure où la silicone valley reste l'incontournable de l'IT, la Belgique rattrape son retard.
 
 
-
-
-
-
 project soutenu par bruxelles formation(lien),les sponsors(liens)[Link](http://a.com)
+
 
 #### infos utiles
 
 * Site web: [BeCode](http://register.becode.org)
-* Facebook: [BeCode](http://register.becode.org)
-* date: du 06/04/ au 26/11/2017  
-* programme:
-  partenaire: Telenet [link](http://www.telenet.be/),Orange [link](http://www.orange.be/); 4WINGS Foundation [link](http://www.orange.be/), Degroof Petercam Foundation [link](http://register.becode.org/),SIMPLON.co ([link](http://simplon.co/), MAKS [link](http://www.maksvzw.org/)
+* Facebook: [BeCode](http://facebook.com/becode.org)
+* Première session: du 06/04/2017 au 25/11/2017
+* Partenaire: [Telenet](http://www.telenet.be/), [Orange](http://www.orange.be/), [4WINGS Foundation](http://www.orange.be/), [Degroof Petercam Foundation](http://register.becode.org/), ([SIMPLON.co](http://simplon.co/), [MAKS](http://www.maksvzw.org/)
  
-becode. be cool. be hack.
 
-Be cool. Be hack. be</code>. 
-
-effervescence !
+Be cool. Be hack. BeCode. 
