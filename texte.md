@@ -62,12 +62,9 @@ dans six mois, il fera parti de votre jargon quotidien.
 
 
 ### Incubateur de Talent
-Project soutenu par Bruxelles Formation 
+Project soutenu par Bruxelles-Formation 
 
-L'étroite la collaboration entre des startup belge et [BeCode](http://register.becode.org) participe à un environnement idéal pour révéler des talents.
-A l heure où la silicone valley reste l'incontournable de l'IT, la Belgique rattrape son retard.
-
-
+L'étroite collaboration entre des startup belge, [BeCode](http://register.becode.org) et Bruxelles-Formation participe à un environnement idéal pour révéler des talents.
 
 
 
