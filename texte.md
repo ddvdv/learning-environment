@@ -36,7 +36,7 @@ Ne les appelez pas "formateur" mais "déformateur". Avant d'aller poser une ques
 ![learning environment](https://images.lecho.be/view?iid=dc:78762507&context=ONLINE&ratio=3/1&width=1425&imageType=JPEG&ts=1491634560000)
 ###### © Kristof Vadino
 
-### Au programme:
+### Au programme
 
 Cette formation de web developpeur couvre tant le l'interface visible par l'utilisateur que le traitement effectué par le serveur:
 
@@ -53,7 +53,7 @@ Cette formation de web developpeur couvre tant le l'interface visible par l'util
 
 Si aujourd'hui ce bout de code vous semble indécryptable,
 
-```
+```javascript
 <script type="text/javascript">
     alert("Hello!");
 </script>
