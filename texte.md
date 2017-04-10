@@ -7,7 +7,7 @@ Si votre relation avec l’informatique se résume à ceci...
 
 ![life without becode](http://reactiongifs.me/wp-content/uploads/2014/06/it-crowd-maurice-moss-frustration-fuck-this.gif)
 
-...alors [Be/Code](http://register.becode.org) et son environnement de travail optimisé est fait pour vous!
+...alors [BeCode](http://register.becode.org) et son environnement de travail optimisé est fait pour vous!
 
 
 ### Un environnement de travail optimisé
@@ -31,24 +31,25 @@ pour ne citez que ceux là, il règne une positive attitude…
 
 > "Et le lien que j'ai envoyé, tu l'as regardé ?"
 
-Ne les appelez pas "formateur" mais "déformateur". Avant d'aller poser une question, et obtenir un indice, il faut avoir épuisé toutes les sources disponibles au développeur débrouillard. Bref, apprendre à apprendre. Loin de la rigidité scolaire, [Be/Code](http://register.becode.org) allume la flamme de la curiosité.
+Ne les appelez pas "formateur" mais "déformateur". Avant d'aller poser une question, et obtenir un indice, il faut avoir épuisé toutes les sources disponibles au développeur débrouillard. Bref, apprendre à apprendre. Loin de la rigidité scolaire, [BeCode](http://register.becode.org) allume la flamme de la curiosité.
 
 ![learning environment](https://images.lecho.be/view?iid=dc:78762507&context=ONLINE&ratio=3/1&width=1425&imageType=JPEG&ts=1491634560000)
 ###### © Kristof Vadino
 
 ### Au programme:
 
-Cette formation de web developpeur couvre tant le l'interface visible par l'utilisateur que le traitement effectué par le serveur
+Cette formation de web developpeur couvre tant le l'interface visible par l'utilisateur que le traitement effectué par le serveur:
 
 * Front-end
- 1. HTML
- 2. CSS
- 3. JavaScript
+   1. HTML
+   2. CSS
+   3. Bootstrap
+   4. JavaScript (JQuery, Angular,...)
 
 * Back-end
- 1. PHP
- 2. MYSQL
- 3. C
+   1. PHP (Symphony, Silex,...)
+   2. MYSQL
+   3. C
 
 
 ### Code blocks
@@ -65,7 +66,7 @@ Voici un bloc de code.
 
 
 ### Incubateur de Talent
-L'étroite la collaboration entre des startup belge et [be/code](http://register.becode.org) forme l'environnement idéal pour révéler des talents.
+L'étroite la collaboration entre des startup belge et [BeCode](http://register.becode.org) forme l'environnement idéal pour révéler des talents.
 A l heure où la silicone valley reste l'incontournable de l'IT, la Belgique rattrape son retard.
 
 
@@ -78,9 +79,9 @@ project soutenu par bruxelles formation(lien),les sponsors(liens)[Link](http://a
 
 infos utile (dernière title) + liens
 
-* Site web: [becode](http://register.becode.org)
+* Site web: [BeCode](http://register.becode.org)
   * subdomaine
-* Facebook: [becode](http://register.becode.org)
+* Facebook: [BeCode](http://register.becode.org)
 * date: du 06/04/ au 26/11/2017  
 * programme:
   partenaire: Telenet [link](http://www.telenet.be/),Orange [link](http://www.orange.be/); 4WINGS Foundation [link](http://www.orange.be/), Degroof Petercam Foundation [link](http://register.becode.org/),SIMPLON.co ([link](http://simplon.co/), MAKS [link](http://www.maksvzw.org/)
