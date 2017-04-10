@@ -10,7 +10,7 @@ Si actuellement votre relation avec l’informatique se résume à ceci...
 ...alors [BeCode](http://register.becode.org) est fait pour vous!
 
 
-### Un environnement de travail optimisé
+### Un école sans cours
 Ne dites pas "école" mais "fabrique". Loin des cours magistraux et des tables en rang d'oignons, BeCode prend la forme d'une startup et de ses promesses. Plus qu'une salle de cours, c'est des valeurs communes partagées par les apprenti-codeurs et les codeurs-baroudeurs qui les encadrent. 
 
 #### Leitmotive et Valeurs
