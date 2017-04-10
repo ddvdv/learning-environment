@@ -33,7 +33,7 @@ pour ne citez que ceux là, il règne une positive attitude…
 
 Ne les appelez pas "formateur" mais "déformateur". Avant d'aller poser une question, et obtenir un indice, il faut avoir épuisé toutes les sources disponibles au développeur débrouillard. Bref, apprendre à apprendre. Loin de la rigidité scolaire, [Be/Code](http://register.becode.org) allume la flamme de la curiosité.
 
-![learning environment](http://www.lecho.be/entreprises/technologie/BeCode-une-fabrique-sociale-de-codeurs-en-mode-start-up/9881172?ckc=1&ts=1491816026#)
+![learning environment](https://images.lecho.be/view?iid=dc:78762492&context=ONLINE&ratio=3/2&width=340&imageType=JPEG&ts=1491634560000)
 ######© Kristof Vadino
 
 ### Au programme:
