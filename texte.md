@@ -36,7 +36,7 @@ Ne les appelez pas "formateur" mais "déformateur". Avant d'aller poser une ques
 
 ### Au programme
 
-Cette formation de web developpeur couvre tant le l'interface visible par l'utilisateur que le traitement effectué par le serveur:
+Cette formation de web developpeur couvre tant l'interface visible par l'utilisateur que le traitement effectué par le serveur:
 
 * Front-end
    * HTML
@@ -60,13 +60,12 @@ dans six mois, il fera parti de votre jargon quotidien.
 
 
 ### Incubateur de Talent
-Project soutenu par Bruxelles-Formation 
-
 L'étroite collaboration entre des startup belge, [BeCode](http://register.becode.org) et Bruxelles-Formation participe à un environnement idéal pour révéler des talents.
 
 
 
-#### infos utiles
+
+#### Infos utiles
 
 * Site web: [BeCode](http://register.becode.org)
 * Facebook: [BeCode](http://facebook.com/becode.org)
