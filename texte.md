@@ -1,7 +1,7 @@
-# BeCode
+# Un environnement de travail optimisé
 
 
-## Un environnement de travail optimisé
+## BeCode 
 
 Si actuellement votre relation avec l’informatique se résume à ceci...
 
