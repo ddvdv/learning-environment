@@ -20,8 +20,6 @@ Ne dites pas "école" mais "fabrique". Loin des cours magistraux et des tables e
 4. Curiosité
 5. Débrouillardise
 
-pour ne citez que ceux là, il règne une positive attitude…
-
 
 #### Coach, professeur et déformateurs
 
