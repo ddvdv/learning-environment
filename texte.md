@@ -1,7 +1,7 @@
 # Environnement de travail optimisé!
 
 
-## Qu'est-ce qu'un enviro<snnement de travail optimisé?
+## Qu'est-ce qu'un environnement de travail optimisé?
 
 Si votre relation avec l’informatique se résume à ceci...
 
@@ -20,16 +20,23 @@ Ne dites pas "école" mais "fabrique". Loin des cours magistraux et des tables e
 4. Curiosité
 5. Débrouillardise
 
-pour ne citez que ceux là, il règne une positive attitude….
+pour ne citez que ceux là, il règne une positive attitude…
 
 
 #### Coach, professeur et déformateurs
-Appelez-moi deformateurs! C’est ainsi qu’ils aiment se faire appeler, il est vrai qu’au sain de becode(lien)[Link](http://a.com), chemin opposer à la rigueur école pour faire place à la pratique 
+
+> "Tu as cherché sur les forums ?"
+
+> "Tu en as parlé à ton équipe ?"
+
+> "Et le lien que j'ai envoyé, tu l'as regardé ?"
+
+Avant d'aller poser une question, et obtenir un indice, auprès des formateurs, il faut avoir épuisé toutes les sources disponibles au développeur débrouillard. Bref, apprendre à apprendre. BeCode allume la flamme de la curiosité.
+
+Appelez-moi deformateur! C’est ainsi qu’ils aiment se faire appeler, il est vrai qu’au sain de becode(lien)[Link](http://a.com), chemin opposer à la rigueur école pour faire place à la pratique 
 
 une bande de vieux routards de l’informatique autodidacte enthousiaste à l’idee
 de transmettre leurs connaissances sur l’auto-discipline , le self-made et ….
-
-
 
 
 
