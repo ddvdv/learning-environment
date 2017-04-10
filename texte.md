@@ -10,16 +10,16 @@ Si votre relation avec l’informatique se résume à ceci...
 ...alors [be/code](http://register.becode.org) et son environnement de travail optimisé est fait pour vous!
 
 
-### Environnement de travail optimisé
-
+### Un environnement de travail optimisé
+Ne dites pas "école" mais "fabrique". Loin des cours magistraux et des tables en rang d'oignons, BeCode prend la forme d'une startup et de ses promesses. Plus qu'une salle de cours, c'est des valeurs communes partagées par les apprenti-codeurs et (..........)les codeurs aguéris qui les encadrent. 
 
 #### Leitmotive et Valeurs
-1. Creativité
-  - 1.
+1. Créativité
 2. Détermination
-    2 
-3. Auto-discipline
-4. Objectif
+3. Esprit d'équipe
+4. Curiosité
+5. Débrouillardise
+
 pour ne citez que ceux là, il règne une positive attitude….
 
 
@@ -27,7 +27,7 @@ pour ne citez que ceux là, il règne une positive attitude….
 Appelez-moi deformateurs! C’est ainsi qu’ils aiment se faire appeler, il est vrai qu’au sain de becode(lien)[Link](http://a.com), chemin opposer à la rigueur école pour faire place à la pratique 
 
 une bande de vieux routards de l’informatique autodidacte enthousiaste à l’idee
-de transmettre leurs connaissances sur l’autodétermination , le self-made et ….
+de transmettre leurs connaissances sur l’auto-discipline , le self-made et ….
 
 
 
