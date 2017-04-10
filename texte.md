@@ -11,7 +11,7 @@ Si actuellement votre relation avec l’informatique se résume à ceci...
 
 
 ### Un environnement de travail optimisé
-Ne dites pas "école" mais "fabrique". Loin des cours magistraux et des tables en rang d'oignons, BeCode prend la forme d'une startup et de ses promesses. Plus qu'une salle de cours, c'est des valeurs communes partagées par les apprenti-codeurs et (..........)les codeurs aguéris qui les encadrent. 
+Ne dites pas "école" mais "fabrique". Loin des cours magistraux et des tables en rang d'oignons, BeCode prend la forme d'une startup et de ses promesses. Plus qu'une salle de cours, c'est des valeurs communes partagées par les apprenti-codeurs et les codeurs-baroudeurs qui les encadrent. 
 
 #### Leitmotive et Valeurs
 1. Créativité
