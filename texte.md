@@ -33,17 +33,12 @@ pour ne citez que ceux là, il règne une positive attitude…
 
 Ne les appelez pas "formateur" mais "déformateur". Avant d'aller poser une question, et obtenir un indice, il faut avoir épuisé toutes les sources disponibles au développeur débrouillard. Bref, apprendre à apprendre. Loin de la rigidité scolaire, [Be/Code](http://register.becode.org) allume la flamme de la curiosité.
 
-
-une bande de vieux routards de l’informatique autodidacte enthousiaste à l’idee
-de transmettre leurs connaissances sur l’auto-discipline , le self-made et ….
-
-
+![learning environment](http://www.lecho.be/entreprises/technologie/BeCode-une-fabrique-sociale-de-codeurs-en-mode-start-up/9881172?ckc=1&ts=1491816026#)
+######© Kristof Vadino
 
 ### Au programme:
 
 Cette formation de web developpeur couvre tant le l'interface visible par l'utilisateur que le traitement effectué par le serveur
-
-![learning environment](http://i.huffpost.com/gen/2727034/images/o-TECHNOLOGY-COMPUTERS-STUDENTS-facebook.jpg)
 
 * Front-end
  1. HTML
