@@ -3,13 +3,13 @@
 
 ## Qu'est-ce qu'un environnement de travail optimisé?
 
-si votre relation avec l’informatique se résumait a cela alors l’article qui suit pourrait certainement vous intéresser!
+Si votre relation avec l’informatique se résume à cela alors BeCode et son environnemnet de travail optimisé est fait pour vous!
 ![life without becode](http://reactiongifs.me/wp-content/uploads/2014/06/it-crowd-maurice-moss-frustration-fuck-this.gif)
 
 
 
 ### Incubateur de Talent
-L'étroite la collaboration entre des startup belge et [be/code](http://register.becode.org) forme l'environnement idéal pour révéler des talents. 
+L'étroite la collaboration entre des startup belge et [be/code](http://register.becode.org) forme l'environnement idéal pour révéler des talents.
 A l heure où la silicone valley reste l'incontournable de l'IT, la Belgique rattrape son retard.
 
 
