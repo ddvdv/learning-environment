@@ -40,19 +40,16 @@ Ne les appelez pas "formateur" mais "déformateur". Avant d'aller poser une ques
 
 Cette formation de web developpeur couvre tant le l'interface visible par l'utilisateur que le traitement effectué par le serveur:
 
-1. Front-end
-   1. HTML
-   2. CSS
-   3. Bootstrap
-   4. JavaScript (JQuery, Angular,...)
+* Front-end
+   * HTML
+   * CSS
+   * Bootstrap
+   * JavaScript (JQuery, Angular,...)
 
-2. Back-end
-   1. PHP (Symphony, Silex,...)
-   2. MYSQL
-   3. Introduction algorithmique
-
-
-> Code blocks
+* Back-end
+   * PHP (Symphony, Silex,...)
+   * MYSQL
+   * Introduction algorithmique
 
 Si aujourd'hui ce bout de code vous semble indécryptable,
 
