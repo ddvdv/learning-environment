@@ -49,18 +49,23 @@ Cette formation de web developpeur couvre tant le l'interface visible par l'util
 * Back-end
    1. PHP (Symphony, Silex,...)
    2. MYSQL
-   3. C
+   3. Introduction algorithmique
 
 
-### Code blocks
+Code blocks
 
 (function() {
     console.log('code blocks indent four spaces');
 })()
 
 Voici du `code incorporé.`
+
+
+
 ```
-Voici un bloc de code.
+<script type="text/javascript">
+    alert("Hello!");
+</script>
 ```
 
 
